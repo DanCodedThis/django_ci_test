@@ -1,1 +1,1 @@
-web: gunicorn test_may_django.wsgi
+web: gunicorn courses.wsgi:application
