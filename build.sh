@@ -18,4 +18,4 @@ python manage.py createsuperuser --noinput
 # Unset environment variables
 unset DJANGO_SUPERUSER_USERNAME
 unset DJANGO_SUPERUSER_EMAIL
-unset DJANGO_SUPERUSER_PASSWORD
+unset DJANGO_SUPERUSER_PASSWORDf
